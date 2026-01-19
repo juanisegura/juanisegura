@@ -1,6 +1,4 @@
 <div align="center">
-  <img height="120" src="https://tuportafolio.com.ar/juan-ignacio-segura/assets/images/profile.jpg" alt="profile" />
-  <br><br>
 
   <h2>Juan Ignacio Segura</h2>
   <h3>Desarrollador de Software</h3>
