@@ -1,58 +1,58 @@
 <div align="center">
-  <img height="140" src="https://github.com/juanisegura/juanisegura/blob/main/assets/profile-pic-rounded.png?raw=true" alt="Juan Ignacio Segura"/>
+  <img height="120" src="https://github.com/juanisegura/juanisegura/raw/main/assets/profile-pic-rounded.png" alt="profile" />
   <br><br>
-  
-  <h1>Juan Ignacio Segura</h1>
+
+  <h2>Juan Ignacio Segura</h2>
   <h3>Desarrollador de Software</h3>
-  
+
   <p>
-    Backend • Infraestructura • Automatización • Desarrollo Web<br>
-    <strong>Estudiante de Ingeniería de Software</strong>
+    Backend • Infraestructura • Automatización • Web<br>
+    Estudiante de Ingeniería de Software
   </p>
 
+  <!-- Badges de contacto – compactos y dark -->
   <p>
     <a href="mailto:juanosegura@icloud.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
     </a>
     <a href="https://www.linkedin.com/in/juanigsegura/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a href="https://tuportafolio.com.ar/juan-ignacio-segura/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-181818?style=flat&logo=google-chrome&logoColor=white" alt="portfolio"/>
     </a>
-    <a href="https://github.com/juanisegura" target="_blank">
-      <img src="https://img.shields.io/github/followers/juanisegura?color=58a6ff&label=followers&logo=github&style=for-the-badge" alt="GitHub followers"/>
-    </a>
+    <img src="https://img.shields.io/github/followers/juanisegura?style=flat&color=58a6ff&logo=github" alt="followers"/>
   </p>
 </div>
 
 <br>
 
-## 🛠️ Stack Principal
+### 🛠️ Tech Stack Principal
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,postgres,docker,aws,gcp,git,linux,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,nextjs,express,prisma,nginx&perline=8" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions,terraform,kubernetes&theme=dark" />
+  </a>
+</p>
 
 <br>
 
-## Experiencia
+### Experiencia Relevante
 
 - **Sistemas – Estudio Jurídico Mindel**  
   May 2024 – actualidad  
-  Soporte T1/T2 • Redes • Infraestructura
+  Soporte T1/T2 • Gestión de redes • Infraestructura
 
 - **Sistemas – Natan Gesang Institution**  
   Feb 2024 – May 2025  
-  Soporte técnico • Google Workspace
+  Soporte técnico • Google Workspace • Hardware
 
 - **Desarrollo Web – Freelance**  
   Dic 2022 – actualidad  
@@ -60,66 +60,39 @@
 
 <br>
 
-## Proyectos destacados
+### Proyectos Destacados
 
-<table>
-<tr>
-<td width="50%">
-
-### Estudio Mindel  
-Sitio jurídico • SEO • Responsive  
-→ <a href="https://estudiomindel.com">estudiomindel.com</a>
-
-</td>
-<td width="50%">
-
-### Pinteas  
-Portfolio + Servicios IT  
-→ <a href="https://pinteas.com">pinteas.com</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### AILandering  
-Catálogo herramientas IA  
-→ <a href="https://ailandering.com">ailandering.com</a>
-
-</td>
-<td width="50%">
-
-### + proyectos  
-<a href="https://tuportafolio.com.ar/juan-ignacio-segura/#proyectos">Ver todos</a>
-
-</td>
-</tr>
-</table>
+| Proyecto          | Descripción breve                        | Enlace                                 |
+|-------------------|------------------------------------------|----------------------------------------|
+| Estudio Mindel    | Sitio jurídico • SEO • Responsive        | [→ estudiomindel.com](https://estudiomindel.com) |
+| Pinteas           | Portfolio + Servicios IT • Moderno       | [→ pinteas.com](https://pinteas.com)          |
+| AILandering       | Catálogo herramientas IA • UX cuidada    | [→ ailandering.com](https://ailandering.com)  |
+| + proyectos       | Ver todos los trabajos                   | [→ Portafolio completo](https://tuportafolio.com.ar/juan-ignacio-segura/#proyectos) |
 
 <br>
 
-## Formación
+### Formación & Certificaciones
 
-- Ingeniería de Software — Universidad Siglo 21 (en curso)  
-- Licenciatura en Informática — Universidad Siglo 21 (en curso)  
-- Professional Backend Developer — UTN (en curso)  
-- Data Engineering — UTN  
-- Diplomatura en Python — UTN  
-- Professional Front End Developer — UTN  
-- Experto Universitario en Ethical Hacking — UTN  
+- Ingeniería de Software — Universidad Siglo 21 *(en curso)*
+- Licenciatura en Informática — Universidad Siglo 21 *(en curso)*
+- Professional Backend Developer — UTN *(en curso)*
+- Data Engineering — UTN
+- Diplomatura en Python — UTN
+- Professional Front End Developer — UTN
+- Experto Universitario en Ethical Hacking — UTN
 
-→ <a href="https://tuportafolio.com.ar/juan-ignacio-segura/#educacion">Certificados</a>
+→ [Certificados y más detalles](https://tuportafolio.com.ar/juan-ignacio-segura/#educacion)
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanisegura&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=39c5cf" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanisegura&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=6" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanisegura&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=39c5cf" width="48%" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanisegura&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=6" width="40%" alt="top langs" />
 </div>
 
 <br>
 
-<p align="center">
-  <i>Aprendiendo Cloud, DevOps y sistemas distribuidos</i><br><br>
-  <b>Contacto:</b> <a href="mailto:juanosegura@icloud.com">juanosegura@icloud.com</a>
-</p>
+<div align="center">
+  <p><i>Actualmente profundizando en Cloud, DevOps y sistemas distribuidos</i></p>
+  <p><b>¡Hablemos!</b> → <a href="mailto:juanosegura@icloud.com">juanosegura@icloud.com</a></p>
+</div>
