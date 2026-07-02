@@ -29,14 +29,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,postgres,docker,aws,gcp,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,javascript,typescript,react,nodejs,python,postgres,docker,aws,gcp,git,linux,vscode" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,nextjs,express,prisma,nginx&perline=8" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=githubactions,terraform,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,githubactions,terraform,kubernetes&theme=dark" />
   </a>
 </p>
 
@@ -60,12 +60,25 @@
 
 ### Proyectos Destacados
 
-| Proyecto          | Descripción breve                        | Enlace                                 |
-|-------------------|------------------------------------------|----------------------------------------|
-| Estudio Mindel    | Sitio jurídico • SEO • Responsive        | [→ estudiomindel.com](https://estudiomindel.com) |
-| Pinteas           | Portfolio + Servicios IT • Moderno       | [→ pinteas.com](https://pinteas.com)          |
-| AILandering       | Catálogo herramientas IA • UX cuidada    | [→ ailandering.com](https://ailandering.com)  |
-| + proyectos       | Ver todos los trabajos                   | [→ Portafolio completo](https://tuportafolio.com.ar/juan-ignacio-segura/#proyectos) |
+**Clientes — Freelance (PHP vanilla, sin frameworks pesados)**
+
+| Proyecto | Rubro | Enlace |
+|---|---|---|
+| damka.com.ar | Venta, alquiler y soporte técnico de impresoras (Ricoh, Brother) | [→ damka.com.ar](https://damka.com.ar) |
+| diurbano.com.ar | Inmobiliaria premium — venta, alquiler, tasaciones (CABA) | [→ diurbano.com.ar](https://diurbano.com.ar) |
+| intea.com.ar | Consultora IT — servicios + Cerebro MCP (producto propio) | [→ intea.com.ar](https://intea.com.ar) |
+| lanfranconienvasamiento.com | Sitio corporativo B2B — catálogo industrial de envasado | [→ lanfranconienvasamiento.com](https://lanfranconienvasamiento.com) |
+| lopezhr.com | Consultora RRHH — institucional + ATS/CRM propio en producción | [→ lopezhr.com](https://lopezhr.com) |
+| nicolaslevin.com | Marca personal / artista — booking y portfolio | [→ nicolaslevin.com](https://nicolaslevin.com) |
+| rutscatering.com.ar | Gastronomía y catering — catálogo de servicios | [→ rutscatering.com.ar](https://rutscatering.com.ar) |
+
+**Académico**
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| SPAEB | Conciliación bancaria automatizada — Java + MySQL, patrón Strategy, transacciones. Seminario de Práctica de Informática, Univ. Siglo 21 | [→ github.com/juanisegura/SPAEB-V4.0](https://github.com/juanisegura/SPAEB-V4.0) |
+
+→ [Portafolio completo](https://tuportafolio.com.ar/juan-ignacio-segura/#proyectos)
 
 <br>
 
