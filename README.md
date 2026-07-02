@@ -67,7 +67,7 @@
 | damka.com.ar | Venta, alquiler y soporte técnico de impresoras (Ricoh, Brother) | [→ damka.com.ar](https://damka.com.ar) |
 | diurbano.com.ar | Inmobiliaria premium — venta, alquiler, tasaciones (CABA) | [→ diurbano.com.ar](https://diurbano.com.ar) |
 | intea.com.ar | Consultora IT — servicios + Cerebro MCP (producto propio) | [→ intea.com.ar](https://intea.com.ar) |
-| lanfranconienvasamiento.com | Sitio corporativo B2B — catálogo industrial de envasado | [→ lanfranconienvasamiento.com]([https://lanfranconienvasamiento.com](https://ghostwhite-heron-832332.hostingersite.com/?LSCWP_CTRL=before_optm&nocache=1777000238086)) |
+| lanfranconienvasamiento.com | Sitio corporativo B2B — catálogo industrial de envasado | [→ lanfranconienvasamiento.com]([https://ghostwhite-heron-832332.hostingersite.com/?LSCWP_CTRL=before_optm&nocache=1777000238086)) |
 | lopezhr.com | Consultora RRHH — institucional + ATS/CRM propio en producción | [→ lopezhr.com](https://lopezhr.com) |
 | nicolaslevin.com | Marca personal / artista — booking y portfolio | [→ nicolaslevin.com](https://nicolaslevin.com) |
 | rutscatering.com.ar | Gastronomía y catering — catálogo de servicios | [→ rutscatering.com.ar](https://rutscatering.com.ar) |
